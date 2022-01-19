@@ -1,4 +1,4 @@
-### Hi Folks 👋
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ### About Me
 I am Computer Engineering Student in Mersin University, who loves embedded systems, linux system developments and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
