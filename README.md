@@ -1,5 +1,7 @@
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### About Me
 I am Computer Engineering Student in Mersin University, who loves embedded systems, linux system developments and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
