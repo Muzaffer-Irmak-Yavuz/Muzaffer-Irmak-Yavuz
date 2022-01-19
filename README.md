@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### About Me
-I am Computer Engineering Student in Mersin University, who loves embedded systems, linux system developments and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
+I am Computer Engineering Student at Mersin University, who loves embedded systems, linux system developments and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
 
 ### Me In Social Media
 
