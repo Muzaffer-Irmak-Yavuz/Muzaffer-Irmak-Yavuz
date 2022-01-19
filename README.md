@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Folks 👋
+
+### About Me
+I am Computer Engineering Student in Mersin University. 
 
 <!--
 **Muzaffer-Irmak-Yavuz/Muzaffer-Irmak-Yavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
