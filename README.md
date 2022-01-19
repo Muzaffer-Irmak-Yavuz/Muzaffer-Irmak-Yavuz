@@ -1,7 +1,7 @@
 ### Hi Folks 👋
 
 ### About Me
-I am Computer Engineering Student in Mersin University. 
+I am Computer Engineering Student in Mersin University, who loves embedded systems, linux system developments and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
 
 <!--
 **Muzaffer-Irmak-Yavuz/Muzaffer-Irmak-Yavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
