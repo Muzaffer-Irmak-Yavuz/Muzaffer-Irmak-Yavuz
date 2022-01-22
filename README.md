@@ -6,7 +6,7 @@
 ### About Me
 I am Computer Engineering Student at Mersin University, who loves embedded systems, linux system programming and other C stuff. I mainly code in C/C++ and trying to learn and gain experience in Embedded Systems on stm32. 
 
-> "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart > enough to debug it."
+> "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart  enough to debug it."
 > 
 > Brian Kernighan
 
