@@ -10,6 +10,7 @@ I am Computer Engineering Student at Mersin University, who loves embedded syste
 
 [**Virtual Machine**](https://github.com/Muzaffer-Irmak-Yavuz/miVM-Virtual-Machine) -> Basic concept of stack based vm.
 
+[**Garbage Collector**](https://github.com/Muzaffer-Irmak-Yavuz/miGC-Garbage-Collector) -> Implementation of Garbage Collector using [Mark & Sweep](https://en.wikipedia.org/wiki/Tracing_garbage_collection#Na%C3%AFve_mark-and-sweep) algorithm  
 
 ### Me In Social Media
 
