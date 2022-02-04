@@ -22,7 +22,7 @@ I am Computer Engineering Student at Mersin University, who loves embedded syste
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzaffer-Irmak-Yavuz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaffer-Irmak-Yavuz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaffer-Irmak-Yavuz&hide=CSS,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Muzaffer-Irmak-Yavuz/Muzaffer-Irmak-Yavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
