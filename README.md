@@ -22,7 +22,7 @@ I am Computer Engineering Student at Mersin University, who loves embedded syste
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaffer-Irmak-Yavuz&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaffer-Irmak-Yavuz" />
 </a>
 
 <!--
